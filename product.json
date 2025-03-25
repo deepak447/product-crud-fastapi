@@ -1,0 +1,37 @@
+{
+    "2af1aaa3-66e0-431c-93d9-7f8c90c75644": {
+        "id": "2af1aaa3-66e0-431c-93d9-7f8c90c75644",
+        "Product_Name": "USB-C Hub",
+        "Price": 19.99,
+        "Description": "Multi-port USB-C hub with HDMI, USB 3.0, and SD card reader.",
+        "Quantity": 100
+    },
+    "7802f1c2-dd51-48f1-b785-095649909806": {
+        "id": "7802f1c2-dd51-48f1-b785-095649909806",
+        "Product_Name": "Bluetooth Headphones",
+        "Price": 59.99,
+        "Description": "Noise-canceling Bluetooth headphones with deep bass and 20-hour battery life.",
+        "Quantity": 25
+    },
+    "6d347643-4449-433b-a986-976903b949c4": {
+        "id": "6d347643-4449-433b-a986-976903b949c4",
+        "Product_Name": "External Hard Drive",
+        "Price": 89.99,
+        "Description": "1TB portable external hard drive with USB 3.0 for fast data transfer.",
+        "Quantity": 60
+    },
+    "8ceffe6c-d2b3-4861-bd0d-14df332a1386": {
+        "id": "8ceffe6c-d2b3-4861-bd0d-14df332a1386",
+        "Product_Name": "External Hard Drive",
+        "Price": 89.99,
+        "Description": "1TB portable external hard drive with USB 3.0 for fast data transfer.",
+        "Quantity": 60
+    },
+    "b0a7ae4d-a28a-447c-bae8-c8e3e7003a20": {
+        "id": "b0a7ae4d-a28a-447c-bae8-c8e3e7003a20",
+        "Product_Name": "Wireless Charger",
+        "Price": 25.99,
+        "Description": "Fast wireless charging pad compatible with all Qi-enabled devices.",
+        "Quantity": 80
+    }
+}
